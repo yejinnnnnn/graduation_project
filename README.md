@@ -21,7 +21,7 @@
 ---
 ### **1. 📃블럭도 설명**
 <center>
-     <img src="https://user-images.githubusercontent.com/107833113/174710577-5b7bce31-ea7e-4969-aea3-dcaf322b8637.JPG">
+     <img src="https://user-images.githubusercontent.com/105187744/233479205-58d58599-1da0-4358-b79a-80638ebb82b2.PNG">
 </center>
 
 ---
