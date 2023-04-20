@@ -39,10 +39,10 @@ Link : [NODE-RED UI](http://211.206.178.184:1880/ui/#!/0?socketid=9dEfMAmUUc7OH-
 
 
  > 코드
-'''python
+```python
 for i in range(1,10):
  sum+=1
- '''
+```
 
 ---
 ### **🎞5. 🎥구동 영상🎥**
