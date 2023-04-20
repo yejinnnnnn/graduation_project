@@ -13,9 +13,9 @@
 ### **✔개발 환경**  
 
 - VIsual Studio Code 
-> HTML
-> PYTHON
-> Java Script
++ HTML
++ PYTHON
++ Java Script
 
 ---
 ### **1. 📃블럭도 설명**
