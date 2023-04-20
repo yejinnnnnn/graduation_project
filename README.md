@@ -13,9 +13,10 @@
 ### **✔개발 환경**  
 
 - VIsual Studio Code 
- - HTML
- - PYTHON
- - Java Script
+   - HTML
+   - PYTHON
+   - Java Script
+- DB server
 
 ---
 ### **1. 📃블럭도 설명**
@@ -35,6 +36,8 @@
 <div class="form-group d-flex">
  <input type="password" class="form-control rounded-left" name="pw" placeholder="Password" required>
  </div>
+```
+
 
 ### **3. 📞 구성**
 
@@ -49,10 +52,7 @@ Link : [NODE-RED UI](http://211.206.178.184:1880/ui/#!/0?socketid=9dEfMAmUUc7OH-
 ---
 ### **4. 📟 서버 ** 
 
-
-
-
-```
+> DB서버 사용할 예정 .php 파일 사용
 
 ---
 ### **🎞5. 🎥 구동 영상 🎥**
