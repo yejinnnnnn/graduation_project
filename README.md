@@ -14,7 +14,6 @@
 
 - VIsual Studio Code 
    - HTML
-   - PYTHON
    - Java Script
 - DB server
 
