@@ -35,13 +35,14 @@
 Link : [NODE-RED UI](http://211.206.178.184:1880/ui/#!/0?socketid=9dEfMAmUUc7OH-74AAAN, "node-red ui link")     
 
 ---
-### **4. 📟구동 화면** 
+### **4. 📟 코드 ** 
 
 
- > 카메라 구동 화면
-<center>
-     <img src="https://user-images.githubusercontent.com/105187744/174632545-3605ca4d-aa54-48ff-912f-3837c090a8d6.jpg">
-</center>  
+ > 코드
+'''python
+for i in range(1,10):
+ sum+=1
+ '''
 
 ---
 ### **🎞5. 🎥구동 영상🎥**
