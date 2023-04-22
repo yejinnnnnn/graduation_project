@@ -43,7 +43,7 @@
 ```
 
 
-###  📞구성
+<!--###  📞구성
 
  >  구성도
    
@@ -54,6 +54,8 @@
 Link : [NODE-RED UI](http://211.206.178.184:1880/ui/#!/0?socketid=9dEfMAmUUc7OH-74AAAN, "node-red ui link")     
 
 ---
+-->
+
 ###  📟서버 
 
 > DB서버 사용할 예정 .php 파일 사용
