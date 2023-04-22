@@ -69,4 +69,4 @@ Link :
 ---
 
 참고 자료 및 사이트
-Link : [Apache 데이터 베이스 구축](https://codedragon.tistory.com/8640, "blog link")   
+Link : [Apache 데이터 베이스 구축](https://codedragon.tistory.com/8640 "blog link")   
