@@ -15,21 +15,21 @@
  - 이소현
  - 김예진
 ---
-### **✔개발 환경**  
+### ✔개발 환경
 
 - VIsual Studio Code 
-   - <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-   - <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+   - HTML
+   - JavaScript
 - DB server
-   - <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+   - MySQL
 ---
-### **1. 📃블럭도 설명**
+###  📃블럭도 설명
 <center>
      <img src="https://user-images.githubusercontent.com/105187744/233479205-58d58599-1da0-4358-b79a-80638ebb82b2.PNG">
 </center>
 
 ---
-### **2. 📃코드 설명**
+###  📃코드 설명
  
 
  > 코드
@@ -43,7 +43,7 @@
 ```
 
 
-### **3. 📞구성**
+###  📞구성
 
  >  구성도
    
@@ -54,12 +54,12 @@
 Link : [NODE-RED UI](http://211.206.178.184:1880/ui/#!/0?socketid=9dEfMAmUUc7OH-74AAAN, "node-red ui link")     
 
 ---
-### 4. 📟서버 
+###  📟서버 
 
 > DB서버 사용할 예정 .php 파일 사용
 
 ---
-### 5. 🎥구동 영상 
+###  🎥구동 영상 
 
 
 Link : 
