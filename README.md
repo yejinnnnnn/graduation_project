@@ -49,7 +49,7 @@ $result2 = mysqli_query($conn, $sql2);
 - 회원가입(임시코드)
 ###  📞구동화면
 
- >  구성도
+ >  WEB 회면
    
 <center>
      <img src="https://user-images.githubusercontent.com/105187744/236647880-9b308bd3-f8bf-4d6a-b343-9ac0379cbcff.PNG">
