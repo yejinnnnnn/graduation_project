@@ -41,16 +41,12 @@
  
 
  > 코드
-```javascript
-<div class="form-group">
- <input type="text" class="form-control rounded-left"  name ="id" placeholder="Username" required>
- </div>
-<div class="form-group d-flex">
- <input type="password" class="form-control rounded-left" name="pw" placeholder="Password" required>
- </div>
+
+```php
+$sql2 = "INSERT INTO users(id, user_name, password, name) VALUES(2, '$uname', '$pass', '$name')";
+$result2 = mysqli_query($conn, $sql2);
 ```
-
-
+- 회원가입(임시코드)
 ###  📞구동화면
 
  >  구성도
