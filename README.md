@@ -77,8 +77,8 @@ $result2 = mysqli_query($conn, $sql2);
 - 투두리스트 할 일 추가시 화면 
 
 
-Link : [NODE-RED UI](http://211.206.178.184:1880/ui/#!/0?socketid=9dEfMAmUUc7OH-74AAAN, "node-red ui link")     
-
+Link : [TODOLIST](http://211.206.178.184:1880/ui/#!/0?socketid=9dEfMAmUUc7OH-74AAAN, "GO TO MY TODOLIST link")     
+> 임시링크 아무것도 없음
 ---
 
 
