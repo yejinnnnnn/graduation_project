@@ -66,13 +66,13 @@ $result2 = mysqli_query($conn, $sql2);
 
 
 <center>
-     <img src="https://user-images.githubusercontent.com/105187744/236647930-8c326d04-2e0d-42f8-ad41-2c658123f71f.PNG">
+     <img src="https://user-images.githubusercontent.com/105187744/236648272-1643d1ba-be5e-4027-a583-779107ed22e9.PNG">
 </center>
 - 투두리스트 로그인 후 mytodolist 화면 
 
 
 <center>
-     <img src="https://user-images.githubusercontent.com/105187744/236647957-f803e3e7-c98c-40bf-82af-0b70d024cc1a.PNG">
+     <img src="https://user-images.githubusercontent.com/105187744/236648275-8f5042ff-c18f-4684-89b9-b6ccb476061f.PNG">
 </center>
 - 투두리스트 할 일 추가시 화면 
 
