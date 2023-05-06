@@ -59,7 +59,7 @@ $result2 = mysqli_query($conn, $sql2);
 
  
 <center>
-     <img src="https://user-images.githubusercontent.com/105187744/236647905-1c6e5302-8271-44b3-8493-e268c3b6fb77.PNG">
+     <img src="https://user-images.githubusercontent.com/105187744/236648162-d13a711d-9695-4357-9f14-8b116e0fd811.PNG">
 </center>
 
 - 투두리스트 회원가입 화면 
