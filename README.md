@@ -100,8 +100,9 @@ Link : [TODOLIST](http://211.206.178.184:1880/ui/#!/0?socketid=9dEfMAmUUc7OH-74A
 <center>
      <img src="https://user-images.githubusercontent.com/93758371/236685375-f65363eb-08f1-4b05-8537-add3d532c712.png">
 </center>
-- 사진 추가 
+
 ---
+
 ###  🎥구동 영상 
 
 
