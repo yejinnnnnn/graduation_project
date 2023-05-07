@@ -66,7 +66,7 @@ $result2 = mysqli_query($conn, $sql2);
 
 
 <center>
-     <img src="https://user-images.githubusercontent.com/105187744/236648275-8f5042ff-c18f-4684-89b9-b6ccb476061f.PNG">
+     <img src="https://user-images.githubusercontent.com/105187744/236686490-2d5a380f-67cc-48cd-a684-70967c739ef7.PNG">
 </center>
 
 - 로그인 성공 화면
@@ -96,14 +96,16 @@ Link : [TODOLIST](http://211.206.178.184:1880/ui/#!/0?socketid=9dEfMAmUUc7OH-74A
 - 비밀번호의 경우 암호화 하여 저장 <md5()함수 사용>
 
 <center>
-     <img src="https://user-images.githubusercontent.com/105187744/236684508-32566245-b52d-4ea2-b20d-5a8cda73bd1e.PNG">
+     <img src="https://user-images.githubusercontent.com/105187744/236686546-d59a8419-921d-4ea5-85c7-4844a0d723a7.PNG">
 </center>
 - 사용자의 이름, 사용자의 번호, ID, password 저장
 
 
+<center>
+     <img src="https://user-images.githubusercontent.com/105187744/236686646-bdfcd016-48c0-4037-82c4-2eea02a31c5c.PNG">
+</center>
 - Raspberry PI 내부에서 MySQL을 사용하여 DB의 저장된 내용을 터미널로 확인
-
-- 사진 추가 
+ 
 ---
 ###  🎥구동 영상 
 
