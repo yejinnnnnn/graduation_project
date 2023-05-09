@@ -1,7 +1,7 @@
 <?php 
 session_start(); 
 include "todo_DB.php";
-
+$intnum=1;
 if (isset($_POST['uname']) && isset($_POST['password'])
     && isset($_POST['name']) && isset($_POST['re_password'])) {
 
@@ -11,6 +11,7 @@ if (isset($_POST['uname']) && isset($_POST['password'])
 	   $data = htmlspecialchars($data);
 	   return $data;
 	}
+
 
 	$uname = validate($_POST['uname']);
 	$pass = validate($_POST['password']);
@@ -48,20 +49,22 @@ if (isset($_POST['uname']) && isset($_POST['password'])
 		// hashing the password
         $pass = md5($pass);
 
-	    $sql = "SELECT * FROM users WHERE user_name='$uname' ";
+	    $sql = "SELECT * FROM users WHERE user_name='$uname'";
 		$result = mysqli_query($conn, $sql);
 
 		if (mysqli_num_rows($result) > 0) {
 			header("Location: todo_sign.php?error=The username is taken try another&$user_data");
 	        exit();
 		}else {
-           $sql2 = "INSERT INTO users(user_name, password, name) VALUES('$uname', '$pass', '$name')";
+           $sql2 = "INSERT INTO users(id, user_name, password, name) VALUES(3, '$uname', '$pass', '$name')";
            $result2 = mysqli_query($conn, $sql2);
+           
+           
            if ($result2) {
-           	 header("Location: todo_sign.php?success=회원 가입이 완료 되었다");
+           	 header("Location: todo_sign.php?success=success");
 	         exit();
            }else {
-	           	header("Location: todo_sign.php?error=알수 없는 에러가 발생 했다&$user_data");
+	           	header("Location: todo_sign.php?error=ERROR&$user_data");
 		        exit();
            }
 		}

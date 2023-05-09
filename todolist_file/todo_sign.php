@@ -5,9 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-     <div>
-          <button><a href="todo_list1.php">MAIN</a></button>
-     </div>
+     
      <form action="todo_list5_sign_check.php" method="post">
      	<h2>SIGN UP</h2>
      	<?php if (isset($_GET['error'])) { ?>

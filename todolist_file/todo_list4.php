@@ -11,13 +11,13 @@ if (isset($_POST['uname']) && isset($_POST['password'])) {
 	   return $data;
 	}
 
-	$uname = validate($_POST['uname']);
+	$uname = validate($_POST['uname']); //포스트 방식으로 넘어온 유저네임과 패스워드 저장
 	$pass = validate($_POST['password']);
 
-	if (empty($uname)) {
+	if (empty($uname)) { //유저네임이 비어있는 경우 에러사인출력
 		header("Location: todo_list1.php?error=User Name is required");
 	    exit();
-	}else if(empty($pass)){
+	}else if(empty($pass)){ //위와 동일 패스워드
         header("Location: todo_list1.php?error=Password is required");
 	    exit();
 	}else{
@@ -25,8 +25,10 @@ if (isset($_POST['uname']) && isset($_POST['password'])) {
         $pass = md5($pass);
 
 		$sql = "SELECT * FROM users WHERE user_name='$uname' AND password='$pass'";
+        //테이블에서 유저네임, 패스워드 레코드를 가져옴
 
 		$result = mysqli_query($conn, $sql);
+        //쿼리 결과를 담음
 
 		if (mysqli_num_rows($result) === 1) {
 			$row = mysqli_fetch_assoc($result);

@@ -1,3 +1,9 @@
+<?php 
+session_start();
+
+if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
+
+ ?>
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -11,27 +17,30 @@
 
     <div id="todolist">
         <div class="main__title">
-            <h1>To do list</h1>
-        </div>
-
-        <div>
-            <button><a href="todo_list1.php">MAIN</a></button>
+            <h1><?php echo $_SESSION['name']; ?>'s To do list</h1>
         </div>
     
         <div class="input__section">
-            <form>
-                <div>
-                    <input type = "text" class = "item" autofocus="true">
-                </div>
-                <div>
-                    <button type = "button" class="input__button"><i class="fas fa-plus-circle"></i></button>
-                </div>
-            </form>
+           
+            <input type = "text" class = "item" autofocus="true"> 
+            <button type = "button" class="input__button">add</button>
+           
         </div>
     
         <div class="item__list"></div>
     
     </div>
 
+    <div>
+        <button><a href="todo_list1.php" style="color:white">MAIN</a></button>
+    </div>
+
+
     <script src="todo.js" defer></script>
 </head>
+<?php 
+}else{
+     header("Location: todo_list1.php");
+     exit();
+}
+ ?>
