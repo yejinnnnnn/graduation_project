@@ -1,11 +1,13 @@
 # 2023 졸업작품 프로젝트⚡
 
+## 📝MT TODO!📌
 ## 웹사이트 TO DO LIST! 
 
 ### 작품의 필요성
 - 일의 우선순위를 설정함으로 시간 관리 능력 개선
 - 체크박스를 통한 성취감 향상
 - 누구나 쓸 수 있는 직관적인 기능
+- 할 일을 적고, 해결함으로서 성취도 향상
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -82,9 +84,6 @@ $result2 = mysqli_query($conn, $sql2);
 </center>
 - 투두리스트 할 일 추가시 화면 
 
-
-Link : [TODOLIST](http://211.206.178.184:1880/ui/#!/0?socketid=9dEfMAmUUc7OH-74AAAN, "GO TO MY TODOLIST link")     
-> 임시링크 아무것도 없음
 ---
 
 
@@ -109,9 +108,7 @@ Link : [TODOLIST](http://211.206.178.184:1880/ui/#!/0?socketid=9dEfMAmUUc7OH-74A
 ---
 ###  🎥구동 영상 
 
-
-Link : 
-
+Link : [MY TODO](https://youtu.be/HTawKec7Uyg, "GO TO MY TODOLIST link")
 ---
 
 참고 자료 및 사이트
