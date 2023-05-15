@@ -127,7 +127,7 @@
 ---
 ###  🎥구동 영상 
 
-Link : [MY TODO](https://youtu.be/HTawKec7Uyg, "GO TO MY TODOLIST link")
+Link : [MY TODO](https://youtu.be/aXOt62TffUs, "GO TO MY TODOLIST link")
 
 ---
 ### ❗보완
