@@ -25,6 +25,7 @@
    - PHP
 - DB server
    - MySQL
+   - Maria DB
 ---
 ###  📃블럭도 설명
 <center>
