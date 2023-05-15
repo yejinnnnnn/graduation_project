@@ -29,7 +29,7 @@
 ---
 ###  📃블럭도 설명
 <center>
-     <img src=https://github.com/yejinnnnnn/graduation_project/assets/105187744/68ce0e95-f202-4f6e-a61a-541d3bc061e0>
+     <img src=https://github.com/yejinnnnnn/graduation_project/assets/105187744/c43482d2-eb4b-4764-ab6f-b07330a5de75>
 </center>
 
 - MySQL을 사용하여 DB에 회원가입 정보를 저장
@@ -54,7 +54,7 @@
 ```
 - DB 서버와 연결 코드
 
-
+---
 ###  💻구동화면
 
  >  WEB 회면
@@ -133,6 +133,8 @@ Link : [MY TODO](https://youtu.be/aXOt62TffUs, "GO TO MY TODOLIST link")
 ### ❗보완
 
 ※휴대성이 좋은 휴대폰에서도 사용할 수 있도록 WEB뿐만 아니라 APP으로도 만들 수 있도록 보완
+※D-DAY 알림 기능을 활성화해 기한이 지나기 전 다시 상기시킬수 있도록 보완
+※투두리스트가 다른 기기에도 연동되도록 보완
 
 ---
 참고 자료 및 사이트
