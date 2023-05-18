@@ -26,6 +26,7 @@
 - DB server
    - MySQL
    - Maria DB
+- Raspberry PI
 ---
 ###  📃블럭도 설명
 <center>
@@ -49,10 +50,10 @@
 	mysqli_query($conn, 'SET NAMES utf8');
 
 	if ($conn->connect_error) {
-		die("Connection failed: " . $conn->connect_error);
+		die("Connection failed: " . $conn->error);
 	}
 ```
-- DB 서버와 연결 코드
+- Raspberry PI DB 서버 연결 코드
 
 ---
 ###  💻구동화면
@@ -116,7 +117,7 @@
 <center>
      <img src="https://user-images.githubusercontent.com/105187744/236686546-d59a8419-921d-4ea5-85c7-4844a0d723a7.PNG">
 </center>
-- 사용자의 이름, 사용자의 번호, ID, password 저장
+- Raspberry PI에 사용자의 이름, 사용자의 번호, ID, password 저장
 
 
 <center>
