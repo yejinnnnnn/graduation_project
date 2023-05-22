@@ -30,7 +30,7 @@
 ---
 ###  📃블럭도 설명
 <center>
-     <img src=https://github.com/yejinnnnnn/graduation_project/assets/105187744/c43482d2-eb4b-4764-ab6f-b07330a5de75>
+     <img src="https://github.com/yejinnnnnn/graduation_project/assets/93758371/f50842d8-4934-49ab-9f31-dadfce390fb5">
 </center>
 
 - MySQL을 사용하여 DB에 회원가입 정보를 저장
