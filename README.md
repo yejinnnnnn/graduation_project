@@ -58,50 +58,54 @@
 ---
 ###  💻구동화면
 
- >  WEB 회면
+ >  WEB 화면
    
 <center>
      <img src="https://github.com/yejinnnnnn/graduation_project/assets/105187744/02ad292d-5aca-4699-a446-52b79fd2e2c4.PNG">
 </center>
 
-- 투두리스트 첫 메인화면 
+> 투두리스트 첫 메인화면 
 
  
 <center>
      <img src="https://github.com/yejinnnnnn/graduation_project/assets/105187744/9ae4e4d4-22c6-41b4-8f8f-66981c26cd43.PNG">
 </center>
 
-- 투두리스트 회원가입 화면 
+> 투두리스트 회원가입 화면 
 
 
 <center>
      <img src="https://github.com/yejinnnnnn/graduation_project/assets/105187744/f1fa38b3-317e-4839-8f62-02b260812240.PNG">
 </center>
 
-- 로그인 성공 화면
+> 로그인 성공 화면
 
 <center>
      <img src="https://github.com/yejinnnnnn/graduation_project/assets/105187744/df1edbe8-4b96-4120-a37d-411e241abadd.PNG">
 </center>
-- 투두리스트 로그인 후 mytodolist 화면 
+
+> 투두리스트 로그인 후 mytodolist 화면 
 
 
 <center>
      <img src="https://github.com/yejinnnnnn/graduation_project/assets/105187744/080f5d12-99d3-4824-aedd-b09398072eec.PNG">
 </center>
-- 투두리스트 할 일 추가시 화면
+
+> 투두리스트 할 일 추가시 화면
 
 
 <center>
      <img src="https://github.com/yejinnnnnn/graduation_project/assets/105187744/0c670447-303b-4405-9e14-d7081f4372ea.PNG">
 </center>
-- 투두리스트 할 일 완료시 화면
+
+>투두리스트 할 일 완료시 화면
 
 
 <center>
      <img src="https://github.com/yejinnnnnn/graduation_project/assets/105187744/8d595daf-9c9a-400a-8a7f-02f4b871eb10.PNG">
 </center>
-- 기한이 지난 할 일시 화면
+
+> 기한이 지난 할 일시 화면
 
 
 ---
